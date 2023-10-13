@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codewithraj/static/css/main.528baa47.css",
+    "main.js": "/codewithraj/static/js/main.23401ad5.js",
+    "static/js/787.e3835ec5.chunk.js": "/codewithraj/static/js/787.e3835ec5.chunk.js",
+    "index.html": "/codewithraj/index.html",
+    "main.528baa47.css.map": "/codewithraj/static/css/main.528baa47.css.map",
+    "main.23401ad5.js.map": "/codewithraj/static/js/main.23401ad5.js.map",
+    "787.e3835ec5.chunk.js.map": "/codewithraj/static/js/787.e3835ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528baa47.css",
+    "static/js/main.23401ad5.js"
+  ]
+}
